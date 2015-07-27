@@ -1,0 +1,1 @@
+use parallelism inherent in svn protocol to speedup operations on svn repository access.
